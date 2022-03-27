@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d4dbd2b4-5f28-0e0b-04e5-2c36830c22a3
 resourcetype: Document
 title: Stroszek_Class_Discussion
 uid: 8e9aa2f7-117f-4141-f8c4-8ba66e8d8256

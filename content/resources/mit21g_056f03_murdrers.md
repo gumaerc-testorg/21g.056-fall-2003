@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d4dbd2b4-5f28-0e0b-04e5-2c36830c22a3
 resourcetype: Document
 title: Discussion_Murderers_among_Us
 uid: 591566c8-f22e-2130-cecc-d59355c317e7

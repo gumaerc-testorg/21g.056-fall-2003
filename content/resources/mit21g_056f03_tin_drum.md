@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d4dbd2b4-5f28-0e0b-04e5-2c36830c22a3
 resourcetype: Document
 title: Discussion_Tin_Drum
 uid: 56b9504e-0993-e2d3-1a65-416363f0e46d

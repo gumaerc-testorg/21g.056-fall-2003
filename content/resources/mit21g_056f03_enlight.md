@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d4dbd2b4-5f28-0e0b-04e5-2c36830c22a3
 resourcetype: Document
 title: Discussion_Enlightenment Guaranteed
 uid: d791cf73-4c29-0288-700c-ed1240c5d642

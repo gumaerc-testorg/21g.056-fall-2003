@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aff53920-5017-1ea0-3881-7dd48de70ce8
 resourcetype: Document
 title: 'Visual Histories: German Cinema 1945 - Present'
 uid: a9865494-a41f-94ef-fbcf-a06908361927

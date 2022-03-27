@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d4dbd2b4-5f28-0e0b-04e5-2c36830c22a3
 resourcetype: Document
 title: Discussion_The_Promise
 uid: 60fdceff-7a2d-f9a3-8b38-baa20b52e950
