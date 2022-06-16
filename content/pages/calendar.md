@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of reading questions for each session of
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
