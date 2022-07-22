@@ -5,6 +5,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Discussion_Tin_Drum
 uid: 56b9504e-0993-e2d3-1a65-416363f0e46d
 ---
 This resource contains information regarding tin drum.
-

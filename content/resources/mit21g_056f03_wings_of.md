@@ -5,6 +5,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Discussion_Wings_of_Desire
 uid: bfbdf225-2575-9b82-b380-c3393f9cbd2d
 ---
 This resource contains information regarding wings of desire.
-

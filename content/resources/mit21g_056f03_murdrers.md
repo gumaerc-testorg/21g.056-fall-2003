@@ -5,6 +5,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Discussion_Murderers_among_Us
 uid: 591566c8-f22e-2130-cecc-d59355c317e7
 ---
 This resource contains information regarding murderers among us.
-

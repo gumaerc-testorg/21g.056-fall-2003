@@ -6,6 +6,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Visual Histories: German Cinema 1945 - Present'
 uid: 3d65c3bb-51f7-9bb6-1bab-7d624ea5047b
 ---
 This resource contains information regarding visual histories: German cinema 1945 - present.
-

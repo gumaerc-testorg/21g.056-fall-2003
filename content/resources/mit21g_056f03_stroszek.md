@@ -5,6 +5,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Stroszek_Class_Discussion
 uid: 8e9aa2f7-117f-4141-f8c4-8ba66e8d8256
 ---
 This resource contains information regarding class discussion.
-

@@ -5,6 +5,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Discussion_The_Promise
 uid: 60fdceff-7a2d-f9a3-8b38-baa20b52e950
 ---
 This resource contains information regarding the promise.
-

@@ -5,6 +5,7 @@ file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Discuss_Marriage_of_M._Braun
 uid: 07a4fde5-8973-91a3-bb52-e40982c9ff76
 ---
 This resource contains information regarding marriage of M. Braun.
-
