@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of reading questions for each session of
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e4bc06d4-07c0-a440-ea14-3ca61633bf80
 ---
