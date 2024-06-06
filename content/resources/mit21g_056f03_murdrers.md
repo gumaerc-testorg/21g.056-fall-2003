@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding murderers among us.
 file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/591566c8f22e2130ceccd59355c317e7_MIT21G_056F03_murdrers.pdf
+file_size: 544068
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
