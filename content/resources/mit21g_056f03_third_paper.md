@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding visual histories: German
   cinema 1945 - present.'
-file: /courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/3d65c3bb51f79bb61bab7d624ea5047b_MIT21G_056F03_third_paper.pdf
+file: /ol-ocw-studio-app/courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003/3d65c3bb51f79bb61bab7d624ea5047b_MIT21G_056F03_third_paper.pdf
 file_size: 524095
 file_type: application/pdf
 learning_resource_types:
